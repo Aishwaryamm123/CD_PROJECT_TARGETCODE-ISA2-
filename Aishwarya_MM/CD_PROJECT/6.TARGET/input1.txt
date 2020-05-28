@@ -1,0 +1,17 @@
+a = 45
+b = 8
+t1 = b * c
+t2 = t1 + a
+c = t2
+i = 0
+t3 = i + 2
+if t3 != 0 goto (9)
+a = 0
+goto (6)
+a = 1
+goto (6)
+t5 = c * d
+t6 = b + t5
+t7 = f / t
+t8 = t6 - t7
+a = t8
